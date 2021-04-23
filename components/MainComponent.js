@@ -23,7 +23,7 @@ import {
 	fetchComments,
 	fetchPromotions,
 	fetchPartners,
-} from '../redux/actionCreators';
+} from '../redux/ActionCreators';
 import Reservation from './ReservationComponent';
 import Favorites from './FavoritesComponent';
 
